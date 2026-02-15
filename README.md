@@ -70,7 +70,7 @@ I care about:
 - Multimodal AI systems
 - LLM evaluation and reliability
 - Production optimization for large-scale ML systems
-- Reliability of Agentic AI in Security measures 
+- Reliability on Agentic AI solutions in Security measures / asking a question: Are they safe to use ? 
 
 ---
 
